@@ -1,1 +1,2 @@
-hello
+#Starship
+starship init fish | source
