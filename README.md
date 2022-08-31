@@ -1,2 +1,2 @@
 # dotfiles
-Dotfiles for fish shell in WSL
+Dotfiles for zsh shell, nvim and tmux in WSL
